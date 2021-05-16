@@ -1,0 +1,37 @@
+{
+"symbol": "Panda",
+
+"name": "PandaCoin",
+
+"type": "ERC20",
+
+"address": "0xe5437C3Fb2D3Df1ff01339AD82859a59e02174C0",
+"ens_address": "",
+"decimals": 18,
+"website": "https://panda-host.club/PandaCoin",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "pandacoin@panda-host.club",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
